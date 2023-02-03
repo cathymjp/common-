@@ -1,3 +1,3 @@
-# common-
+### Research journal
 
-Read Me
+Log of the research project from the first use of OpenCV
